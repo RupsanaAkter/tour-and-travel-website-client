@@ -1,0 +1,63 @@
+[
+    {
+      "_id": 1,
+      "name": "Trip in Canada",
+      "slots": [
+       "1/January/23-3/March/23",
+       "1/April/23-3/may/23",
+       "4/May/23-3/july/23",
+       "1/August/23-3/October/23",
+       "1/November/23-3/December/23"
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "Trip in France",
+      "slots": [
+        "1/January/23-3/March/23",
+        "1/April/23-3/may/23",
+        "4/May/23-3/july/23",
+        "1/August/23-3/October/23",
+        "1/November/23-3/December/23"
+      ]
+    },
+    {
+      "_id": 3,
+      "name": "Trip in Germany",
+      "slots": [
+        "1/January/23-3/March/23",
+        "1/April/23-3/may/23",
+        "4/May/23-3/july/23",
+        "1/August/23-3/October/23",
+        "1/November/23-3/December/23"
+      ]
+    },
+    {
+      "_id": 4,
+      "name": "Trip in Italy",
+      "slots": [
+        "1/January/23-3/March/23",
+       "1/April/23-3/may/23",
+       "4/May/23-3/july/23",
+       "1/August/23-3/October/23",
+       "1/November/23-3/December/23"
+      ]
+    },
+    {
+      "_id": 5,
+      "name": "Trip in Japan",
+      "slots": [
+      ]
+    },
+    {
+      "_id": 6,
+      "name": "Trip in Bangladesh",
+      "slots": [
+        "1/January/23-3/March/23",
+       "1/April/23-3/may/23",
+       "4/May/23-3/july/23",
+       "1/August/23-3/October/23",
+       "1/November/23-3/December/23"
+      ]
+    }
+  ]
