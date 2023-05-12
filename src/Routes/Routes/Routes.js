@@ -7,6 +7,8 @@ import About from "../../pages/About/About/About";
 import Contact from "../../pages/Contact/Contact/Contact";
 import Services from "../../pages/Services/Services/Services";
 import SignUp from "../../pages/SignUp/SignUp";
+import Dashboard from "../../pages/Dashboard/Dashboard/Dashboard";
+import PrivateRoutes from "../PrivateRoutes/PrivateRoutes";
 
 
 const router = createBrowserRouter([
@@ -41,6 +43,10 @@ const router = createBrowserRouter([
             {
                 path:'/services',
                 element:<Services></Services>
+            },
+            {
+                path: '/dashboard',
+                element: <PrivateRoutes><Dashboard></Dashboard></PrivateRoutes>
             }
         ]
     }
